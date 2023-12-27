@@ -1,4 +1,4 @@
-# Visit at: https://10count.github.io/iblog/#/
+# Visit at: https://10count.github.io
 
 # iblog
 
